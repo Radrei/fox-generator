@@ -1,0 +1,23 @@
+#mail_headline{
+	width: 100%; 
+	font-family: 'Times New Roman', serif; 
+	font-weight: bold; 
+	text-align:center; 
+	font-size: 16pt; 
+	line-height: 19pt; 
+	height: 2.5em; 
+	margin-bottom: 1em; 
+	color: black;
+}
+
+h1, p{
+	text-align:center;
+}
+
+.red{
+	color: red;
+}
+
+.blue{
+	color: blue;
+}
